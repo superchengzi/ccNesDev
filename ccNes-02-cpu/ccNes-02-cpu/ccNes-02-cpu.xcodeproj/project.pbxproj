@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		22AEA6482E3F5A1A0037C954 /* ccNes-02-cpu */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "ccNes-02-cpu"; sourceTree = BUILT_PRODUCTS_DIR; };
 		22AEA64B2E3F5A1A0037C954 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		22AEA6522E3F5A680037C954 /* m6502.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = m6502.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				22AEA64B2E3F5A1A0037C954 /* main.c */,
+				22AEA6522E3F5A680037C954 /* m6502.h */,
 			);
 			path = "ccNes-02-cpu";
 			sourceTree = "<group>";
